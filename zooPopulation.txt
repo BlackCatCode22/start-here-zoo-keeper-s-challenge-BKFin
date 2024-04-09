@@ -1,0 +1,34 @@
+
+-+- Super snazzy Zoo Population report of arriving animals! -+-
+
+Hyenas: 4 | Lions: 4 | Tigers: 4 | Bears: 4
+
+Total number of animals arriving: 16
+
+Hyena Habitat:
+
+Hy01, Shenzi; birthdate: 2020-03-21; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrived: 2024-04-08
+Hy02, Banzai; birthdate: 2012-09-21; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrived: 2024-04-08
+Hy03, Ed; birthdate: 2020-03-21; black color; male; 120 pounds; from Friguia Park, Tunisia; arrived: 2024-04-08
+Hy04, Zig; birthdate: 2016-01-01; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrived: 2024-04-08
+
+Lion Habitat:
+
+Li01, Scar; birthdate: 2018-03-21; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrived: 2024-04-08
+Li02, Mufasa; birthdate: 2012-12-21; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrived: 2024-04-08
+Li03, Simba; birthdate: 2002-09-21; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrived: 2024-04-08
+Li04, Kiara; birthdate: 2020-03-21; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrived: 2024-04-08
+
+Tiger Habitat:
+
+Ti01, Tony; birthdate: 2022-03-21; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrived: 2024-04-08
+Ti02, Tigger; birthdate: 2020-03-21; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrived: 2024-04-08
+Ti03, Amber; birthdate: 2006-09-21; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrived: 2024-04-08
+Ti04, Cosimia; birthdate: 2021-03-21; black stripes color; female; 285 pounds; from Bardia, Nepal; arrived: 2024-04-08
+
+Bear Habitat:
+
+Be01, Yogi; birthdate: 2017-03-21; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrived: 2024-04-08
+Be02, Smokey; birthdate: 1999-03-21; black color; female; 425 pounds; from Woodland park Zoo, Washington; arrived: 2024-04-08
+Be03, Paddington; birthdate: 2020-09-21; black color; female; 355 pounds; from Woodland park Zoo, Washington; arrived: 2024-04-08
+Be04, Lippy; birthdate: 2020-03-21; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrived: 2024-04-08

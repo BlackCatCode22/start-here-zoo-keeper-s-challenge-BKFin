@@ -11,7 +11,7 @@ class Lion(Animal):
     # Create a list of lion names.
     list_of_lion_names = []
 
-    file_path = r'C:\2023spring\2023fall\python\dataFiles\animalNames.txt'
+    file_path = r'.\animalNames.txt'
     with open(file_path, 'r') as file:
         lines = file.readlines()
 
